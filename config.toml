@@ -9,7 +9,7 @@ name = "penwatch"
 
 [params]
     sidebar = "left"
-    topline = "Simple Ingress explanations for busy players."
+    topline = "Bite-sized Ingress information for new players."
 
 [[menu.main]]
     name = "Mods"

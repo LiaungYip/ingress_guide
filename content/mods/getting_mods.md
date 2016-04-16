@@ -1,6 +1,5 @@
 +++
 date = "2016-04-16T23:20:28+08:00"
-draft = true
 title = "How do I get mods?"
 
 +++

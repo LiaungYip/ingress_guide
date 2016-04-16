@@ -1,56 +1,29 @@
 +++
 date = "2016-03-05T21:58:34+08:00"
-draft = true
 title = "Heat-Sink"
 
 +++
 
+Heatsinks are a kind of [portal mod]({{< ref "mods/index.md" >}}).
 
-Normally, you have to wait five minutes between each time you hack a portal.
+Heatsinks make portals "cool down" faster, **so you don't have to wait as long between hacks.**
 
-A heat-sink does two things:
+  * No heatsink: portal cool-down takes five minutes. 5:00 between hacks.
+  * Common heatsink (CHS): cool-down is **20% faster**. 4:00 between hacks.
+  * Rare heatsink (RHS): cool-down is **50% faster**. 2:30 between hacks.
+  * Very Rare heatsink (VRHS): cool-down is **70% faster**. 1:30 between hacks.
 
-1. Reduces the five-minute cool-down period, so you don't have to wait as long between hacks.
-2. Immediately re-sets your cool-down timer and burn-out timer. (See details below.)
+**All players benefit** from the shorter cool-down time - you, your team, and the enemy team.
 
-Heat-sinks are a kind of [portal mod](#). See [general information about portal mods](#).
+Deploying a heatsink also gives you, **and only you**, the following bonuses:
 
-## Types of heat sink
+  * Resets the [portal cool-down timer]({{< ref "hacking/cooldown.md" >}}) - so *you* can hack again immediately.
+  * Resets the [portal burn-out timer]({{< ref "hacking/burnout.md" >}}) - so *you* can keep hacking a portal after you burn it out. (See also: the [Multi-hack mod]({{< ref "mods/multi_hack.md">}}).)
 
-* No heat sink
-  * 300 seconds (5:00) between hacks.
-* Common Heat Sink (`CHS`)
-  * Cooldown time is reduced by **20%**. 240 seconds (4:00) between hacks.
-* Rare Heat Sink (`RHS`)
-  * Cooldown time is reduced by **50%**. 150 seconds (2:30) between hacks.
-* Very Rare Heat Sink (`VRHS`)
-  * Cooldown time is reduced by **70%**. 90 seconds (1:30) between hacks.
 
-----
+**Multiple heat-sinks:** The best heat-sink gives its full bonus. The second, third, and fourth heat-sink(s) only give 1/5th bonus.
 
-**Multiple heat-sinks:** If there is more than one heat-sink on a portal, the best heat-sink gives its full % bonus; the other heat-sink(s) give half % bonus.
-
-**Durability:** Heat-sinks are fragile. They are easily destroyed by enemy weapons fire.
-
-----
-
-## Reset cool-down and burn-out timer
-
-Deploying a heat-sink has the following benefits, for **you only**. (Other agents do not benefit.)
-
-1. **Cool-down timer** is instantly re-set.
-
-    So you can hack, apply a heat-sink, and hack immediately without waiting the usual time.
-    
-2. **Burn-out timer** is instantly re-set.
-
-    So you can hack a portal until it is burned out, apply a heat-sink, then continue hacking the portal. This bypasses the usual four-hour burn out timer.
-    
-----
-
-## More detailed topics
-
-* [Hack-mod deployment tactics](#)
+**Durability:** Heat-sinks are fragile. They are easily [destroyed by enemy weapons fire]({{< ref "mods/destroying.md" >}}).
 
 ----
 

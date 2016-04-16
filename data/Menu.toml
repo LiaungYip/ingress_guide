@@ -1,27 +1,15 @@
-[attacking]
-Name = "Attacking"
-URL = "/attack"
+[jargon]
+Name = "Jargon"
+URL = "/jargon"
 
-[defending]
-Name = "Defending"
-URL = "/defend"
-
-[fielding]
-Name = "Fielding"
-URL = "/field"
+[mechanics]
+Name = "Game Mechanics"
+URL = "/mechanics"
 
 [mods]
 Name = "Portal Mods"
 URL = "/mods"
 
-[weapons]
-Name = "Weapons"
-URL = "/weapons"
-
 [tactics]
 Name = "Tactics"
 URL = "/tactics"
-
-[advanced]
-Name = "Advanced Tactics"
-URL = "/advanced"
