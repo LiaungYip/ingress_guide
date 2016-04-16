@@ -1,0 +1,17 @@
+baseurl = "http://www.penwatch.net/ingress_guide/"
+languageCode = "en-us"
+title = "Penwatch Ingress Guide"
+
+copyright = "Corrections? http://github.com/LiaungYip/ingress_guide/ . Contact: ingress@penwatch.net."
+
+[author]
+name = "penwatch"
+
+[params]
+    sidebar = "left"
+    topline = "Simple Ingress explanations for busy players."
+
+[[menu.main]]
+    name = "Mods"
+    identifier = "mods"
+    url = "/mods/"
