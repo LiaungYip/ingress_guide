@@ -6,6 +6,9 @@ title = "jargon"
 
 *This is a work in progress.*
 
+ADA
+: The "ADA Refactor" item. Instantly changes a portal from green to blue. See "flipcard".
+
 AP
 : "action points", awarded to you in varying amounts for actions you perform in the game. When you reach certain amounts of AP, you "level up" and gain access to better equipment. The best equipment is unlocked at level 8, which requires 1,200,000 AP.
 
@@ -25,11 +28,12 @@ Brick
 : Verb; filling a portal's mod slots with useless mods, such as LAMPs or CHS - accidentally or intentionally.
 
 Bump
-: action; upgrading the resonators or mods on a friendly portal.
+: action; upgrading a friendly portal. You can upgrade resonators or add mods.
 
 C1 ... C8
 : Item; Power cube - consumed to replenish XM.
 : "C8" is a level-8 power cube.
+: See also "Lawson Power Cube", a special type of power cube.
 
 CHS
 : [[Portal mod]]({{< ref "mods/index.md" >}}) Common [heatsink]({{< ref "mods/heatsink.md" >}})
@@ -102,6 +106,9 @@ Full deploy
 Glyphing
 : action; long-pressing the "HACK" button to activate the "glyph" mini-game, which awards up to 200% bonus items.
 
+Jarvis
+: The "Jarvis Virus" item. Instantly changes a portal from blue to green. See "flipcard".
+
 Wild XM
 : XM (energy) lying on the ground. Move near it to pick it up.
 
@@ -111,11 +118,17 @@ Key
 LAMP
 : (Rare) Link Amp mod. The normal kind of link amp.
 
+Lawson Power Cube
+: Item: A super-sized power cube. It keeps your XM tank completely full, until it runs out. The higher your level, the more XM you get from it.
+
 Light up
 : Verb: To capture and fully-deploy a portal, so that other agents can link to it.
 
 link range
 : The maximum distance for portal links. Determined by the level of the portal you are standing at. Can be extended using link amps.
+
+Lube
+: See "Lawson Power Cube".
 
 MUFG
 : Item: MUFG Capsule.
