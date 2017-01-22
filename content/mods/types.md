@@ -12,7 +12,7 @@ There are six kinds of portal mod.
     * [Turrets]({{< ref "mods/turret.md" >}}) used to make portal counter-attacks stronger. They don't do much any more.
 
 * Hack mods help you get more items from a portal.
-    * [Heatsinks]({{< ref "mods/heatsink.md" >}}) reduce how long you have to wait between portal hacks.
+    * [Heatsinks]({{< ref "mods/heat_sink.md" >}}) reduce how long you have to wait between portal hacks.
     * [Multi-hacks]({{< ref "mods/multi_hack.md" >}}) let you hack a portal more than four times in a four-hour period.
 
 * [Link Amps]({{< ref "mods/link_amp.md" >}}) extend linking range, so you can link to portals that are further away.

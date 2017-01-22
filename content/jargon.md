@@ -36,7 +36,7 @@ C1 ... C8
 : See also "Lawson Power Cube", a special type of power cube.
 
 CHS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Common [heatsink]({{< ref "mods/heatsink.md" >}})
+: [[Portal mod]]({{< ref "mods/index.md" >}}) Common [heatsink]({{< ref "mods/heat_sink.md" >}})
 
 CMH
 : [[Portal mod]]({{< ref "mods/index.md" >}}) Common [multi-hack]({{< ref "mods/multi_hack.md" >}})
@@ -148,7 +148,7 @@ R1 ... R8
 : "R8" is a level-8 resonator.
 
 RHS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Rare [heatsink]({{< ref "mods/heatsink.md" >}})
+: [[Portal mod]]({{< ref "mods/index.md" >}}) Rare [heatsink]({{< ref "mods/heat_sink.md" >}})
 
 RMH
 : [[Portal mod]]({{< ref "mods/index.md" >}}) Rare [multi-hack]({{< ref "mods/multi_hack.md" >}})
@@ -206,7 +206,7 @@ Unique
 : *"I'm hunting uniques."* -> *"I am looking for portals that I haven't captured before."*
 
 VRHS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Very rare [heatsink]({{< ref "mods/heatsink.md" >}})
+: [[Portal mod]]({{< ref "mods/index.md" >}}) Very rare [heatsink]({{< ref "mods/heat_sink.md" >}})
 
 VRLA
 : [[Portal mod]]({{< ref "mods/index.md" >}}) Very Rare Link Amp. Extremely rare. Can't be obtained in normal play.
