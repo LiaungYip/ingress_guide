@@ -4,7 +4,7 @@ title = "Penwatch Ingress Guide"
 copyright = "Corrections? http://github.com/LiaungYip/ingress_guide/ . Contact: ingress@penwatch.net."
 
 theme = "nofancy"
-
+canonifyURLs = "true"
 [author]
 name = "penwatch"
 

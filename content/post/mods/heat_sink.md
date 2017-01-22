@@ -4,4 +4,4 @@ title = "heat_sink"
 
 +++
 
-See [Heatsink]({{< ref "mods/heat_sink.md" >}})
+See [Heatsink](/mods/heat_sink.md)

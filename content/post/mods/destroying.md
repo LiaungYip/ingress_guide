@@ -23,4 +23,4 @@ Portal mods can pop off quickly, if you are lucky. Other times, portal mods won'
 
 ----
 
-[Up to Portal Mods.]({{< ref "mods/index.md" >}})
+[Up to Portal Mods.](../)

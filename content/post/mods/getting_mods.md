@@ -16,4 +16,4 @@ Enemy portals give you less items in general, but you can still get Very Rare mo
 
 ----
 
-[Up to Portal Mods.]({{< ref "mods/index.md" >}})
+[Up to Portal Mods.](../)

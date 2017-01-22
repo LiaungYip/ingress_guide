@@ -13,12 +13,12 @@ AP
 : "action points", awarded to you in varying amounts for actions you perform in the game. When you reach certain amounts of AP, you "level up" and gain access to better equipment. The best equipment is unlocked at level 8, which requires 1,200,000 AP.
 
 AXA
-: [[Portal mod]]({{< ref "mods/index.md" >}}) AXA Shield. Best and rarest type of [shield]({{< ref "mods/shield.md" >}}).
+: [[Portal mod]](/mods/) AXA Shield. Best and rarest type of [shield](/mods/shield.md).
 
 baseline
 
 Bitey
-: One or both of the Force Amp or Turret [portal mods]({{< ref "mods/index.md" >}}). Syn. FA/T.
+: One or both of the Force Amp or Turret [portal mods](/mods/). Syn. FA/T.
 
 blocker
 : Noun: A link installed specifically to prevent the other team from linking.
@@ -36,16 +36,16 @@ C1 ... C8
 : See also "Lawson Power Cube", a special type of power cube.
 
 CHS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Common [heatsink]({{< ref "mods/heat_sink.md" >}})
+: [[Portal mod]](/mods/) Common [heatsink](/mods/heat_sink.md)
 
 CMH
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Common [multi-hack]({{< ref "mods/multi_hack.md" >}})
+: [[Portal mod]](/mods/) Common [multi-hack](/mods/multi_hack.md)
 
 COMM
 : In game chat channel ("communications"). Messages sent to COMM are visible to everyone in the world! Hard to use, and insecure. Use an external chat program, like Telegram, instead.
 
 CS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Common [shield]({{< ref "mods/shield.md" >}})
+: [[Portal mod]](/mods/) Common [shield](/mods/shield.md)
 
 Campfire
 : Noun: A portal with the resonators deployed very close together. Makes the portal very easy to destroy.
@@ -80,7 +80,7 @@ EP1 ... EP8
 : An "EP8" is a level 8 green portal.
 
 FA
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Force amp.
+: [[Portal mod]](/mods/) Force amp.
 
 FA/T
 : One or both of the Force Amp or Turret Mods.
@@ -95,7 +95,7 @@ Flip
 : Verb: to use a flipcard on a portal (see 'flipcard'.)
 
 flip-bump
-: [Advanced technique.]({{< ref "tactics/flip_bump.md" >}}) Using flip-cards to build a high level portal when only a few agents are available.
+: [Advanced technique.](tactics/flip_bump.md) Using flip-cards to build a high level portal when only a few agents are available.
 
 Flipcard
 : Item: Instantly converts portals from blue -> green ("JARVIS Virus") or green -> blue ("ADA Refactor")
@@ -148,17 +148,17 @@ R1 ... R8
 : "R8" is a level-8 resonator.
 
 RHS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Rare [heatsink]({{< ref "mods/heat_sink.md" >}})
+: [[Portal mod]](/mods/) Rare [heatsink](/mods/heat_sink.md)
 
 RMH
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Rare [multi-hack]({{< ref "mods/multi_hack.md" >}})
+: [[Portal mod]](/mods/) Rare [multi-hack](/mods/multi_hack.md)
 
 RP1 ... RP8
 : Resistance-owned Portals, i.e. portals owned by the blue team.
 : An "RP8" is a level 8 blue portal.
 
 RS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Rare Shield
+: [[Portal mod]](/mods/) Rare Shield
 
 Recharging
 : Verb: Using your XM bar to repair a damaged portal.
@@ -168,7 +168,7 @@ Redcap
 : See MUFG.
 
 SBULA
-: [[Portal mod]]({{< ref "mods/index.md" >}}) SoftBank Ultra Link Amp.
+: [[Portal mod]](/mods/) SoftBank Ultra Link Amp.
 
 SULA
 : See SBULA.
@@ -189,7 +189,7 @@ shit link
 spine
 
 T
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Turret mod.
+: [[Portal mod]](/mods/) Turret mod.
 
 tickle
 : action; firing weak attacks at portals, not doing any significant damage.
@@ -206,16 +206,16 @@ Unique
 : *"I'm hunting uniques."* -> *"I am looking for portals that I haven't captured before."*
 
 VRHS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Very rare [heatsink]({{< ref "mods/heat_sink.md" >}})
+: [[Portal mod]](/mods/) Very rare [heatsink](/mods/heat_sink.md)
 
 VRLA
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Very Rare Link Amp. Extremely rare. Can't be obtained in normal play.
+: [[Portal mod]](/mods/) Very Rare Link Amp. Extremely rare. Can't be obtained in normal play.
 
 VRMH
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Very rare [multi-hack]({{< ref "mods/multi_hack.md" >}})
+: [[Portal mod]](/mods/) Very rare [multi-hack](/mods/multi_hack.md)
 
 VRS
-: [[Portal mod]]({{< ref "mods/index.md" >}}) Very Rare Shield mod.
+: [[Portal mod]](/mods/) Very Rare Shield mod.
 
 X1 ... X8
 : item; XMP burster - the standard weapon. "X8" is a level-8 XMP.

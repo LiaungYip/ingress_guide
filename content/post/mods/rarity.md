@@ -16,4 +16,4 @@ Mods come in different qualities - Common, Rare and Very Rare.
 
 ----
 
-[Up to Portal Mods.]({{< ref "mods/index.md" >}})
+[Up to Portal Mods.](../)

@@ -5,11 +5,11 @@ parent = "mods"
 
 +++
 
-Multi-hacks are a kind of [portal mod]({{< ref "mods/index.md" >}}).
+Multi-hacks are a kind of [portal mod](../).
 
 **A multi-hack lets you hack a portal more than four times, before the portal burns out.**
 
-Normally you can hack a portal up to four times in a four-hour period. After that, the portal is ["burned out"]({{< ref "mechanics/burnout.md" >}}). You can't hack the portal any more, until the four-hour burnout period passes.
+Normally you can hack a portal up to four times in a four-hour period. After that, the portal is ["burned out"](mechanics/burnout.md). You can't hack the portal any more, until the four-hour burnout period passes.
 
   * No multi-hack: Four hacks before burnout.
   * Common multi-hack (CMH): Extra **four** hacks before burnout.
@@ -22,4 +22,4 @@ Normally you can hack a portal up to four times in a four-hour period. After tha
 
 ----
 
-[Up to Portal Mods.]({{< ref "mods/index.md" >}})
+[Up to Portal Mods.](../)
