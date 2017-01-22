@@ -1,8 +1,9 @@
 baseurl = "http://www.penwatch.net/ingress_guide/"
-languageCode = "en-us"
 title = "Penwatch Ingress Guide"
 
 copyright = "Corrections? http://github.com/LiaungYip/ingress_guide/ . Contact: ingress@penwatch.net."
+
+theme = "nofancy"
 
 [author]
 name = "penwatch"
