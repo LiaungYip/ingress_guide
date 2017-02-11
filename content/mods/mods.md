@@ -1,7 +1,9 @@
 +++
 date = "2016-04-16T23:09:04+08:00"
 title = "Portal Mods"
-url = "/mods/"
+[menu.main]
+    name = "Mods"
+    identifier = "mods"
 +++
 
 Portal mods are a kind of item. They improve portals in special ways.

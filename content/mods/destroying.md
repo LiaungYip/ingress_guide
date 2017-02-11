@@ -1,7 +1,8 @@
 +++
 date = "2016-04-16T23:54:15+08:00"
-title = "Destroying enemy mods"
-
+title = "Destroying mods"
+[menu.main]
+    parent = "mods"
 +++
 
 You destroy mods on enemy portals by firing weapons at the portal.

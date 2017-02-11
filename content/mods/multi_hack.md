@@ -2,7 +2,8 @@
 date = "2016-03-05T21:34:41+08:00"
 title = "Multi-hack"
 parent = "mods"
-
+[menu.main]
+    parent = "mod_types"
 +++
 
 Multi-hacks are a kind of [portal mod](../).

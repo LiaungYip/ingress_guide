@@ -1,7 +1,8 @@
 +++
 date = "2016-04-17T03:41:28+08:00"
 title = "jargon"
-
+[menu.main]
+	name = "Jargon"
 +++
 
 *This is a work in progress.*

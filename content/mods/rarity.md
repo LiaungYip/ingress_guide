@@ -1,7 +1,8 @@
 +++
 date = "2016-04-17T00:14:13+08:00"
-title = "Mod Quality"
-
+title = "Mod Rarity"
+[menu.main]
+    parent = "mods"
 +++
 
 Mods come in different qualities - Common, Rare and Very Rare.

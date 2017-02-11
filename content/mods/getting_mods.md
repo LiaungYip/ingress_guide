@@ -1,7 +1,8 @@
 +++
 date = "2016-04-16T23:20:28+08:00"
-title = "How do I get mods?"
-
+title = "Getting mods"
+[menu.main]
+    parent = "mods"
 +++
 
 You get mods by hacking portals - the same way you get other items like weapons and resonators.

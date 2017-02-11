@@ -1,7 +1,9 @@
 +++
 date = "2016-04-16T23:18:49+08:00"
 title = "Types of mods"
-
+[menu.main]
+    parent = "mods"
+    identifier = "mod_types"
 +++
 
 There are six kinds of portal mod.

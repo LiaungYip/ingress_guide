@@ -1,7 +1,8 @@
 +++
 date = "2016-04-17T04:39:25+08:00"
 title = "Flip Bumping"
-
+[menu.main]
+    parent = "tactics"
 +++
 
 Normally, building a level 7 portal needs three L8 agents, and building a level 8 portal needs **eight** L8 agents.

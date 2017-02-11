@@ -1,7 +1,8 @@
 +++
 date = "2016-04-17T00:04:47+08:00"
-title = "Deploying"
-
+title = "Deploying Mods"
+[menu.main]
+    parent = "mods"
 +++
 
 You have to get within 40 metres of a portal to deploy mods - the same distance as hacking or deploying resonators.

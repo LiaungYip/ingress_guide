@@ -2,7 +2,8 @@
 date = "2016-04-17T04:37:18+08:00"
 draft = true
 title = "Hacking: Burn-out"
-
+[menu.main]
+	parent = "hack"
 +++
 
 You can hack a portal up to four times in a row. After four hacks, the portal **"burns out"**.

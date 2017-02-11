@@ -1,7 +1,8 @@
 +++
 date = "2016-04-16T23:22:19+08:00"
-title = "heat_sink"
-
+title = "Heat Sink"
+[menu.main]
+    parent = "mod_types"
 +++
 
 Heatsinks are a kind of [portal mod](/mods/).

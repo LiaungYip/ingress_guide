@@ -2,9 +2,8 @@
 date = "2016-03-05T17:31:07+08:00"
 draft = true
 title = "Shield"
-menu = "main"
-parent = "mods"
-
+[menu.main]
+    parent = "mod_types"
 +++
 
 
