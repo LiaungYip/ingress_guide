@@ -20,7 +20,7 @@ canonifyURLs = "true"
 # set relativeURLs and uglyURLs to "true"
 # see also params.ugly and params.uglyhome, below
 relativeURLs = "true"
-uglyURLs = "true"
+uglyURLs = "false"
 
 [author]
     name = "Li-aung Yip"
@@ -28,10 +28,10 @@ uglyURLs = "true"
 [params]
     # set to "" if uglyURLs = "false"
     # set to ".html" if uglyURLs = "true"
-    ugly = ".html"
+    ugly = ""
     # set to "/" if uglyURLs = "false"
     # set to "/index.html" if uglyURLs = "true"
-    uglyhome = "/index.html"
+    uglyhome = "/"
 
 [params.menu]
     # Shown when a manu item has children.
