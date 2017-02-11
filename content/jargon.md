@@ -13,7 +13,7 @@ AP
 : "action points", awarded to you in varying amounts for actions you perform in the game. When you reach certain amounts of AP, you "level up" and gain access to better equipment. The best equipment is unlocked at level 8, which requires 1,200,000 AP.
 
 AXA
-: [[Portal mod]](/mods/) AXA Shield. Best and rarest type of [shield](/mods/shield.md).
+: [[Portal mod]](/mods/) AXA Shield. Best and rarest type of [shield](/mods/shield).
 
 baseline
 
@@ -36,16 +36,16 @@ C1 ... C8
 : See also "Lawson Power Cube", a special type of power cube.
 
 CHS
-: [[Portal mod]](/mods/) Common [heatsink](/mods/heat_sink.md)
+: [[Portal mod]](/mods/) Common [heatsink](/mods/heat_sink)
 
 CMH
-: [[Portal mod]](/mods/) Common [multi-hack](/mods/multi_hack.md)
+: [[Portal mod]](/mods/) Common [multi-hack](/mods/multi_hack)
 
 COMM
 : In game chat channel ("communications"). Messages sent to COMM are visible to everyone in the world! Hard to use, and insecure. Use an external chat program, like Telegram, instead.
 
 CS
-: [[Portal mod]](/mods/) Common [shield](/mods/shield.md)
+: [[Portal mod]](/mods/) Common [shield](/mods/shield)
 
 Campfire
 : Noun: A portal with the resonators deployed very close together. Makes the portal very easy to destroy.
@@ -95,7 +95,7 @@ Flip
 : Verb: to use a flipcard on a portal (see 'flipcard'.)
 
 flip-bump
-: [Advanced technique.](tactics/flip_bump.md) Using flip-cards to build a high level portal when only a few agents are available.
+: [Advanced technique.](tactics/flip_bump) Using flip-cards to build a high level portal when only a few agents are available.
 
 Flipcard
 : Item: Instantly converts portals from blue -> green ("JARVIS Virus") or green -> blue ("ADA Refactor")
@@ -148,10 +148,10 @@ R1 ... R8
 : "R8" is a level-8 resonator.
 
 RHS
-: [[Portal mod]](/mods/) Rare [heatsink](/mods/heat_sink.md)
+: [[Portal mod]](/mods/) Rare [heatsink](/mods/heat_sink)
 
 RMH
-: [[Portal mod]](/mods/) Rare [multi-hack](/mods/multi_hack.md)
+: [[Portal mod]](/mods/) Rare [multi-hack](/mods/multi_hack)
 
 RP1 ... RP8
 : Resistance-owned Portals, i.e. portals owned by the blue team.
@@ -206,13 +206,13 @@ Unique
 : *"I'm hunting uniques."* -> *"I am looking for portals that I haven't captured before."*
 
 VRHS
-: [[Portal mod]](/mods/) Very rare [heatsink](/mods/heat_sink.md)
+: [[Portal mod]](/mods/) Very rare [heatsink](/mods/heat_sink)
 
 VRLA
 : [[Portal mod]](/mods/) Very Rare Link Amp. Extremely rare. Can't be obtained in normal play.
 
 VRMH
-: [[Portal mod]](/mods/) Very rare [multi-hack](/mods/multi_hack.md)
+: [[Portal mod]](/mods/) Very rare [multi-hack](/mods/multi_hack)
 
 VRS
 : [[Portal mod]](/mods/) Very Rare Shield mod.

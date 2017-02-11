@@ -6,8 +6,8 @@ url = "/mods/"
 
 Portal mods are a kind of item. They improve portals in special ways.
 
-* [How do I get mods?](/mods/getting_mods.md)
-* [What types of mods are there? What do they do?](/mods/types.md)
-* [How do I use mods? How many can I put on each portal?](/mods/deploying.md)
-* [How do I destroy enemy mods?](/mods/destroying.md)
-* [Mod quality: "Common", "Rare", and "Very Rare"](/mods/rarity.md)
+* [How do I get mods?](/mods/getting_mods)
+* [What types of mods are there? What do they do?](/mods/types)
+* [How do I use mods? How many can I put on each portal?](/mods/deploying)
+* [How do I destroy enemy mods?](/mods/destroying)
+* [Mod quality: "Common", "Rare", and "Very Rare"](/mods/rarity)

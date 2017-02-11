@@ -10,7 +10,7 @@ Each portal has **four** mod slots.
 
 You can fill **two** mod slots. You can't fill all four slots yourself! You need team-mates to fill the other slots.
 
-**No take-backs:** You can't remove mods; nor can you upgrade existing mods. Once you put a mod on a portal, it will stay until the enemy team knocks it off! See: [Destroying Mods](/mods/destroying.md).
+**No take-backs:** You can't remove mods; nor can you upgrade existing mods. Once you put a mod on a portal, it will stay until the enemy team knocks it off! See: [Destroying Mods](/mods/destroying).
 
 ----
 

@@ -21,7 +21,7 @@ The four-hour timer starts from your  *first* hack. If you hack four times, star
 
 ## How can I get more hacks in a row?
 
-Deploying a [heatsink mod](/mods/heat_sink.md) instantly clears the burn-out timer, so you can start hacking again straight away. Heatsinks re-set the burn-out for you, **and only you** - other agents don't benefit. (Details: [Heatsinks](/mods/heat_sink.md)).
+Deploying a [heatsink mod](/mods/heat_sink) instantly clears the burn-out timer, so you can start hacking again straight away. Heatsinks re-set the burn-out for you, **and only you** - other agents don't benefit. (Details: [Heatsinks](/mods/heat_sink)).
 
-Deploying a [multi-hack mod](/mods/multi_hack.md) lets you hack a portal more times in a row, before you burn it out. Multi-hacks benefit all agents - you, your team, and the other team. (Details: [Multi-Hacks](/mods/multi_hack.md)).
+Deploying a [multi-hack mod](/mods/multi_hack) lets you hack a portal more times in a row, before you burn it out. Multi-hacks benefit all agents - you, your team, and the other team. (Details: [Multi-Hacks](/mods/multi_hack)).
 
