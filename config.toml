@@ -1,18 +1,22 @@
 baseurl = "http://www.penwatch.net/ingress_guide/"
 title = "Penwatch Ingress Guide"
 
-copyright = "Corrections? http://github.com/LiaungYip/ingress_guide/ . Contact: ingress@penwatch.net."
+copyright = ""
 
-theme = "nofancy"
+theme = "plain-docs"
 canonifyURLs = "true"
 [author]
-name = "penwatch"
+	name = "Li-aung Yip"
 
 [params]
-    sidebar = "left"
-    topline = "Bite-sized Ingress information for new players."
+    # set to "" if uglyURLs = "false"
+    # set to ".html" if uglyURLs = "true"
+    ugly = ".html"
+    # set to "/" if uglyURLs = "false"
+    # set to "/index.html" if uglyURLs = "true"
+    uglyhome = "/index.html"
 
-[[menu.main]]
-    name = "Mods"
-    identifier = "mods"
-    url = "/mods/"
+[params.footer]
+    # Show hugo version in footer: "Generated with ♥ by Hugo 0.19-DEV"
+    show_hugo = true
+    edit_url_base = "https://github.com/LiaungYip/ingress_guide/edit/master/content/"
